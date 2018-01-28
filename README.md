@@ -1,8 +1,8 @@
 # Android_FragmentExample
 Best example for creating using app for both mobile &amp; tablet devices 
 --
-<img src="https://github.com/MukhtarAsorori/Android_FragmentExample/blob/master/fragment_tablet.gif" />
-https://github.com/MukhtarAsorori/Android_FragmentExample/blob/master/fragment_tablet.gif
+<img src="https://github.com/MukhtarAsorori/Android_FragmentExample/blob/master/fragment_tablet2.gif" />
+https://github.com/MukhtarAsorori/Android_FragmentExample/blob/master/fragment_tablet2.gif
 --
 You can think of a fragment as a modular section of an activity, which has its own lifecycle, receives its own input events, and which you can add or remove while the activity is running (sort of like a "sub activity" that you can reuse in different activities). This lesson shows how to extend the Fragment class using the Support Library so your app remains compatible with devices running system versions as low as Android 1.6.
 
